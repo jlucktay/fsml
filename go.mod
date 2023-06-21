@@ -1,6 +1,6 @@
 module go.jlucktay.dev/fsml
 
-go 1.19
+go 1.20
 
 require github.com/OpenFactorioServerManager/factorio-server-manager v0.0.0-20220329011036-a5cde420c740
 
@@ -20,8 +20,8 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.5 // indirect
 	github.com/smartystreets/assertions v1.13.0 // indirect
 	github.com/syndtr/goleveldb v1.0.0 // indirect
-	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97 // indirect
-	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c // indirect
+	golang.org/x/crypto v0.10.0 // indirect
+	golang.org/x/sys v0.9.0 // indirect
 	gopkg.in/fsnotify.v1 v1.4.7 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gorm.io/driver/sqlite v1.1.4 // indirect
